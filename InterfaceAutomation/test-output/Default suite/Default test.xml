@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="wfh-PC" name="com.miyuan.rpc.cases.PeerCount" tests="1" failures="0" timestamp="24 Jul 2018 09:08:21 GMT" time="3.266" errors="0">
+  <testcase name="peerCount" time="2.9" classname="com.miyuan.rpc.cases.PeerCount"/>
+</testsuite>
